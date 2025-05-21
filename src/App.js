@@ -23,7 +23,7 @@ const App = () => {
       </div>
       
       <Toppage />
-       <div className="ms-5"style={{ display: 'flex', gap: '20px',padding: '20px'}}>
+       <div className="ms-5 justify-content-center"style={{ display: 'flex', gap: '20px',padding: '20px'}}>
         <a href="https://github.com/Alekyanarmeta" target="_blank" rel="noopener noreferrer" title="GitHub">
           <FaGithub size={40} color="#333" />
         </a>
