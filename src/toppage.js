@@ -64,7 +64,7 @@ function Toppage() {
       </h2>
         </div>
         <div style={{ backgroundPosition: "right" }}>
-          <img src="/alekya1.jpg" alt="Profile" className="profile" />
+          <img src="/alekya.jpg" alt="Profile" className="profile" />
         </div>
       </div>
     </div>
